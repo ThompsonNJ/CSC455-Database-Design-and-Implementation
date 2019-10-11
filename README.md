@@ -1,2 +1,2 @@
-# CSC450 Software Engineering
+# CSC450 Database Design and Implementation
  
